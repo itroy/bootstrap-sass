@@ -2,6 +2,8 @@
 
 `bootstrap-sass` is a Sass-powered version of [Bootstrap](http://github.com/twbs/bootstrap), ready to drop right into your Sass powered applications.
 
+This version is a fork of the above repo made 16th July 2014.
+
 ## Installation
 
 Please see the appropriate guide for your environment of choice:
